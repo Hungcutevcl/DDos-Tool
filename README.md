@@ -3,7 +3,7 @@
 Bạn Cần Có Python 3.9 Trở Lên </n>
 
 
-DOWNLOAD:  git clone https://github.com/KinCloud/DDos-Tool/blob/main/HASOKI-main
+DOWNLOAD:  git clone https://github.com/KinCloud/DDos-Tool
 INSTALL: - python setup.py install or python3 setup.py install
          - with pip:
            pip3 install -r requirements.txt  or  pip install -r requirements.txt
