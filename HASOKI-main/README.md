@@ -1,4 +1,4 @@
-<img src="https://files.4com.cf/data/huongdan2.jpg">
+<img src="https://files.4com.cf/data/huongdan2.png">
 
 Bạn Cần Có Python 3.9 Trở Lên </n>
 
